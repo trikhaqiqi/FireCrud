@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "212514168452",
+    "project_id": "kk-firecrud",
+    "storage_bucket": "kk-firecrud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212514168452:android:fb1d4396cd9304ad2eecd1",
+        "android_client_info": {
+          "package_name": "com.kudangkoding.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212514168452-b10q5lkdc73a545300fn9shl90viqj20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kudangkoding.myapplication",
+            "certificate_hash": "cf0c5f48bdacd1fcfbd0e4c20a6d8863497e7343"
+          }
+        },
+        {
+          "client_id": "212514168452-ajeodecc3q6iqn3noq69pf9740l7dp8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYxC7YsnY-A_THnfoANHasUwZ6XQ4eQBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212514168452-ajeodecc3q6iqn3noq69pf9740l7dp8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
